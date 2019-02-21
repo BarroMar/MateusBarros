@@ -32,4 +32,3 @@ public class Catalogo {
         System.out.println( v );
         }
     }
-}
