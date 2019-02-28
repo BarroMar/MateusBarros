@@ -11,5 +11,6 @@ public class Vetores {
             Scanner sc = new Scanner(System.in);
             idades[i] = sc.nextInt();
         }
+
     }
   }
